@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string-array name="spin">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+
+    </string-array>
+</resources>
